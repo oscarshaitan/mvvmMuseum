@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvMPOC</string>
+    <string name="empty_list">No se encontró museos</string>
+    <string name="an_error_occurred">Ocurrió un error</string>
+</resources>
